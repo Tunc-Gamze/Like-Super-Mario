@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.README.md
+*.README.md.meta
+*.playerController.cs.meta
